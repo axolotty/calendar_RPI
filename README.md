@@ -1,4 +1,4 @@
-# 📅 calendar_RPI — Affichage du calendrier Outlook sur Raspberry Pi
+# 📅 calendar_RPI - Affichage du calendrier Outlook sur Raspberry Pi
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/Selenium-4%2B-43B02A?style=for-the-badge)
